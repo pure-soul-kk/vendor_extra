@@ -11,12 +11,12 @@
         <item>MANUFACTURER:Google</item>
         <item>BRAND:google</item>
         <item>MODEL:Pixel 9</item>
-        <item>RELEASE:Baklava</item>
-        <item>ID:BP22.250124.009</item>
-        <item>VERSION.RELEASE:Baklava</item>
-        <item>VERSION.INCREMENTAL:13034193</item>
-        <item>FINGERPRINT:google/tokay_beta/tokay:Baklava/BP22.250124.009/13034193:user/release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2025-02-05</item>
+        <item>RELEASE:16</item>
+        <item>ID:BP22.250221.013</item>
+        <item>VERSION.RELEASE:16</item>
+        <item>VERSION.INCREMENTAL:13218340</item>
+        <item>FINGERPRINT:google/tokay_beta/tokay:16/BP22.250221.013/13218340:user/release-keys</item>
+        <item>VERSION.SECURITY_PATCH:2025-03-05</item>
         <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
     </string-array>
 </resources>
